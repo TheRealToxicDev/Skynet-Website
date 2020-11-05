@@ -11,10 +11,11 @@ function App() {
       </header>
       <Instructions />
       <div className="main">
+        <h1 style={{ color: "Crimson" }}>Screenshot(s)</h1>
         <img
           className="screenshot"
-          src="https://media.discordapp.net/attachments/734686866690932767/773765816410963999/image0.jpg"
-          alt="DMs Server Owner when Limits are met"
+          src="https://media.discordapp.net/attachments/734686866690932767/773765935940239370/image0.png"
+          alt="Limits"
         />
       </div>
       <div style={{ color: "white" }} className="footer">
