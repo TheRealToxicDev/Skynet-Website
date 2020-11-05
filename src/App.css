@@ -1,0 +1,58 @@
+.container {
+  display: grid;
+  min-height: 100vh;
+  align-content: space-between;
+  grid-template-areas:
+    "header"
+    "instructions"
+    "main"
+    "footer";
+}
+
+@media (min-width: 800px) {
+  .container {
+    display: grid;
+    min-height: 100vh;
+    align-content: space-between;
+    grid-template-columns: 25% auto 25%;
+    grid-template-rows: auto;
+    grid-template-areas:
+      "header . . ."
+      "about about instructions instructions main main"
+      "footer footer footer footer";
+  }
+}
+
+.header {
+  text-align: center;
+  grid-column: 1 / span 4;
+  background-color: Crimson;
+}
+
+.header > img {
+  height: 4em;
+}
+
+.footer {
+  text-align: center;
+  padding: 1rem;
+  grid-area: footer;
+  background-color: Crimson;
+}
+
+.main {
+  grid-area: main;
+  padding: 2rem;
+}
+
+.about {
+  grid-area: about;
+}
+
+.instructions {
+  grid-area: instructions;
+}
+
+.screenshot {
+  height: 30em;
+}
