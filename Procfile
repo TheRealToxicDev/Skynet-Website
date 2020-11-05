@@ -1,0 +1,1 @@
+Web: yarn build
