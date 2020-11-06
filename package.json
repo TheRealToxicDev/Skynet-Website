@@ -1,7 +1,7 @@
 {
-  "name": "drunkcord",
+  "name": "skynet-web",
   "version": "0.1.0",
-  "homepage": "https://jonnynabors.github.io/drunkcord/",
+  "homepage": "https://skynet.toxicdev.me/",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
