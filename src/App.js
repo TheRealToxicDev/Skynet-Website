@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="container">
       <header className="header">
-        <img src="https://media.discordapp.net/attachments/734686866690932767/773768521544105985/imageedit_2_5944678009.png" alt="Skynet" />
+        <img src="https://images-ext-2.discordapp.net/external/CDD__AqgNMF6Gj2opQUeI0yeylqzYN2-Q5S5jIgtaWQ/https/cdn.discordapp.com/avatars/650872568374493185/871cbb7a223667dd3583c449286c10e5.webp" alt="Skynet" />
         <h1 style={{ color: "white", display: "inline", verticalAlign: "super" }}> Skynet</h1>
       </header>
       <Instructions />
