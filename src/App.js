@@ -34,7 +34,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-           Toxic Dev
+           &nbsp;Toxic Dev
         </a>
       </div>
     </div>
