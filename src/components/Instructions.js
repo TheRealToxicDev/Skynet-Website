@@ -9,10 +9,10 @@ const Instructions = () => {
         If a user reaches or exceeds the limits the bot will remove all their roles as long as it has the needed permissions.
       </h3>
       <h3 style={{ color: "white" }}>
-        • <a href="http://help.toxicdev.me/docs/projects/skynet">Documentation</a>
+        • <a href="https://help.toxicdev.me/discord/skynet/">Documentation</a>
       </h3>
       <h3 style={{ color: "white" }}>
-        • <a href="https://discord.gg/MsWT8awvBZ">Support</a>
+        • <a href="https://discord.gg/kvgJbCg7Vs">Support</a>
       </h3>
       <h3 style={{ color: "white" }}>
         • <a href="https://discordapp.com/api/oauth2/authorize?client_id=650872568374493185&permissions=8&scope=bot">Invite</a>
