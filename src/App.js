@@ -11,7 +11,7 @@ function App() {
       </header>
       <Instructions />
       <div className="main">
-        <h1 style={{ color: "Crimson" }}>Screenshot(s)</h1>
+        <h1 style={{ color: "#16151D" }}>Screenshot(s)</h1>
         <img
           className="screenshot"
           src="https://media.discordapp.net/attachments/734686866690932767/773765816410963999/image0.jpg"
