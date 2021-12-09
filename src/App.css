@@ -26,7 +26,7 @@
 .header {
   text-align: center;
   grid-column: 1 / span 4;
-  background-color: Crimson;
+  background-color: #16151D;
 }
 
 .header > img {
@@ -37,7 +37,7 @@
   text-align: center;
   padding: 1rem;
   grid-area: footer;
-  background-color: Crimson;
+  background-color: #16151D;
 }
 
 .main {
