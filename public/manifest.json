@@ -3,9 +3,9 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://images-ext-1.discordapp.net/external/idYNUstfnzT5uVtmEmtOFYMy-0J0mgWymAwdLMQJQB8/https/cdn.discordapp.com/avatars/650872568374493185/871cbb7a223667dd3583c449286c10e5.png",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/png"
     }
   ],
   "start_url": ".",
