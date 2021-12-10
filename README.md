@@ -1,5 +1,5 @@
 # Skynet
-A purpose built anti-nuke Discord bot.
+A purpose built anti-nuke Discord bot. | Official Website
 
 ---
 
