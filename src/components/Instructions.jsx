@@ -12,7 +12,7 @@ const Instructions = () => {
         • <a href="https://help.toxicdev.me/discord/skynet/">Documentation</a>
       </h3>
       <h3 style={{ color: "white" }}>
-        • <a href="https://discord.gg/kvgJbCg7Vs">Support</a>
+        • <a href="https://discord.gg/QvENvJFkA5">Support</a>
       </h3>
       <h3 style={{ color: "white" }}>
         • <a href="https://discordapp.com/api/oauth2/authorize?client_id=650872568374493185&permissions=8&scope=bot">Invite</a>
